@@ -1,0 +1,65 @@
+<?xml version ="1.0" ?>
+<?xml-stylesheet type ="text/xsl" href ="evenements_par_mois.xsl" ?>
+
+    <mois_annee mois="Mars 2016" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_mois.xsd">
+        <evenement jour="22">
+             <icon>images/icon/SOCIAL-BUSINESS-2-670x474.jpg</icon>
+             <type>Conférence débat</type>
+             <titre>Social business : comment changer d’échelle ?</titre>
+             <date>Mardi 22 Mars 2016</date>
+             <heure>17h00 à 19h30</heure>
+             <lieu>Salle polyvalente</lieu>
+             <organisateur>EMI-Business</organisateur>
+             <descriptif>Lutter contre la malnutrition infantile chronique à Madagascar, promouvoir l’accès de tous à une énergie propre et économique au Cambodge, concilier économie circulaire et traitement des déchets en Argentine… tout en étant rentable : tels sont les paris des social business. Ces initiatives se multiplient et suscitent l’intérêt d’un nombre croissant d’acteurs, dans la sphère politique comme dans celle des bailleurs. Pourquoi ? Car ces initiatives convainquent par leur capacité à répondre à des problématiques sociétales (sociales et environnementales) et ouvrent la voie à une économie réellement inclusive.</descriptif>
+             <animateurs>
+                 <nom_prenom>David AUERBACH</nom_prenom>
+                 <fonction>co-fondateur de Sanergy
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Emmanuel BEAU</nom_prenom>
+                 <fonction>directeur d’investissement pour le fonds Energy Access Ventures (EAV)
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Jean Gabriel DAYRE</nom_prenom>
+                 <fonction>chargé d’affaires senior à Proparco
+                 </fonction>
+             </animateurs>
+        </evenement>
+        <evenement jour="8">
+             <icon>images/icon/unicef-enfants_th_128.jpg</icon>
+             <type>Séminaire</type>
+             <titre>Genre et protection sociale</titre>
+             <date>Mardi 8 Mars 2016</date>
+             <heure>14h à 18h</heure>
+             <lieu>Grand amphi</lieu>
+             <organisateur>Club Social</organisateur>
+             <descriptif>Ce séminaire répond au double objectif d’améliorer notre compréhension des enjeux de genre dans les différents domaines de la protection sociale (santé, emploi ou petite enfance) et d'améliorer ensuite l'intégration de ces enjeux dans les projets portés par l’AFD, en partageant les données et leçons apprises des partenaires impliqués dans le domaine de la protection sociale.</descriptif>
+             <animateurs>
+                 <nom_prenom>Jean-Noël Roulleau</nom_prenom>
+                 <fonction> responsable de la Division Appui Environnemental et Social à l’AFD
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Maya Stern-Plaza</nom_prenom>
+                 <fonction>spécialiste principale protection sociale au BIT
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Jean-Noël Roulleau</nom_prenom>
+                 <fonction> responsable de la Division Appui Environnemental et Social à l’AFD
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Carine Clert</nom_prenom>
+                 <fonction>spécialiste principale protection sociale à la Banque mondiale
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Marie-Pierre Nicollet</nom_prenom>
+                 <fonction>directrice du département Développement humain de l’AFD
+                 </fonction>
+             </animateurs>
+        </evenement>
+    </mois_annee>

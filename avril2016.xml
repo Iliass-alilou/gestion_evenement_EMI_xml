@@ -1,0 +1,47 @@
+<?xml version ="1.0" ?>
+<?xml-stylesheet type ="text/xsl" href ="evenements_par_mois.xsl" ?>
+
+    <mois_annee mois="Avril 2016" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_mois.xsd">
+        <evenement jour="12">
+             <icon>images/icon/petrole_th_128.jpg</icon>
+             <type>Conférence débat</type>
+             <titre>Un pétrole à moins de 30$ le baril : quelles conséquences pour le développement ?</titre>
+             <date>Mardi 12 avril 2016</date>
+             <heure>17h00</heure>
+             <lieu>Salle polyvalente</lieu>
+             <organisateur>EMI-Indus</organisateur>
+             <descriptif>Depuis le milieu de l’année 2014, le panorama énergétique mondial a changé. Le prix du pétrole semble durablement bas, les surcapacités de production s’étendent, et les analystes ne semblent pas encore entrevoir de fléchissement de la tendance. Un cours bas du pétrole a des conséquences dramatiques pour les pays exportateurs les plus fragiles en termes de rentrées fiscales et de risque souverain. Il influe aussi sur les stratégies des pays importateurs, en réorientant potentiellement les stratégies de diversification du mix énergétique et retardant les politiques de réduction des émissions de gaz à effet de serre.
+             </descriptif>
+             <animateurs>
+                 <nom_prenom>Fréderic Baule</nom_prenom>
+                 <fonction>Consultant chez Cédrac Conseil et ENERDATA, professeur associé à IFP Training, ancien Vice President Market Risk Management chez TOTAL Marketing et Services.
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Olivier Rech</nom_prenom>
+                 <fonction>Economiste de l’énergie chez Beyond Ratings, ancien analyste chez Energy Fund Advisors, Carbon4 et au bureau du chef économiste de l’AIE.
+                 </fonction>
+             </animateurs>
+        </evenement>
+        <evenement jour="11">
+             <icon>images/icon/Nuage GIRE_15-1_th_128.jpg</icon>
+             <type>Séminaire</type>
+             <titre>Acteurs de l’eau et du climat : concilions nos agendas ! Séminaire 3 – L’influence des concepts et des instruments</titre>
+             <date>Lundi 11 avril 2016</date>
+             <heure>9h30</heure>
+             <lieu>Grand amphi</lieu>
+             <organisateur>Club d'environnement</organisateur>
+             <descriptif>Bassin versant, gestion intégrée des ressources, gouvernance de l’eau… L’ambition de « gérer l’eau douce » a nourri, au fil des précédentes décennies, de nombreux concepts et représentations pour mobiliser la ressource. De nouveaux cadres de pensée et d’action émergent : eau-territoire, eau-environnement, cycle hydro-social de l’eau,  mise en patrimoine de l’environnement, etc.
+             </descriptif>
+             <animateurs>
+                 <nom_prenom>Klervi Fustec</nom_prenom>
+                 <fonction>Géographie, Université de Polynésie Française
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Emeline Hassenforder</nom_prenom>
+                 <fonction>Sciences de l’eau, IRSTEA et Université Nationale d'Australie
+                 </fonction>
+             </animateurs>
+        </evenement>
+    </mois_annee>

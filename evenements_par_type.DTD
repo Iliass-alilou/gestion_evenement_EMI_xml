@@ -1,0 +1,14 @@
+
+<!ELEMENT type (evenement+)>
+<!ATTLIST type categorie CDATA #REQUIRED>
+<!ELEMENT evenement (icon,titre,date,heure,lieu,organisateur,descriptif,animateurs+)>
+<!ELEMENT icon (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT heure (#PCDATA)>
+<!ELEMENT lieu (#PCDATA)>
+<!ELEMENT organisateur (#PCDATA)>
+<!ELEMENT descriptif (#PCDATA)>
+<!ELEMENT animateurs (nom_prenom,fonction)>
+<!ELEMENT nom_prenom (#PCDATA)>
+<!ELEMENT fonction (#PCDATA)>

@@ -1,0 +1,64 @@
+<?xml version ="1.0" ?>
+<?xml-stylesheet type ="text/xsl" href ="evenements_club.xsl" ?>
+
+<evenements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_club.xsd">
+  
+    <organisateur club="Club EMI-Indus">
+	<detail>emiindus.xml</detail>
+        <evenement>
+             <icon>images/icon/petrole_th_128.jpg</icon>
+             <type>Conférence débat</type>
+             <titre>Un pétrole à moins de 30$ le baril : quelles conséquences pour le développement ?</titre>
+             <date>Mardi 12 avril 2016</date>
+        </evenement>
+		<evenement>
+             <icon>images/icon/conference_debat.jpg</icon>
+			 <type>Conférence débat</type>
+             <titre>La RSE, une opportunité pour les entreprises africaines ?</titre>
+             <date>Mardi 9 février 2016</date>
+        </evenement>
+		<evenement>
+             <icon>images/icon/Renfcap.jpg</icon>
+			 <type>Conférence débat</type>
+             <titre>Comment renforcer les acteurs porteurs de changement ?</titre>
+             <date>Jeudi 4 février 2016</date>
+        </evenement>
+        <evenement>
+             <icon>images/icon/3e49d570.jpg</icon>
+             <type>Rapport</type>
+             <titre>le développement dans le monde 2016 : les dividendes du numérique</titre>
+             <date>Mardi 2 février 2016</date>
+        </evenement>		
+    </organisateur>
+		
+		<organisateur club="Club d'environnement">
+		<detail>environnement.xml</detail>
+           <evenement>
+             <icon>images/icon/Nuage GIRE_15-1_th_128.jpg</icon>
+             <type>Séminaire</type>
+             <titre>Acteurs de l’eau et du climat : concilions nos agendas ! Séminaire 3 – L’influence des concepts et des instruments</titre>
+             <date>Lundi 11 avril 2016</date>
+          </evenement>		  
+		</organisateur>
+		
+		<organisateur club="Club social">
+		<detail>social.xml</detail>
+            <evenement>
+             <icon>images/icon/SOCIAL-BUSINESS-2-670x474.jpg</icon>
+             <type>Conférence débat</type>
+             <titre>Social business : comment changer d’échelle ?</titre>
+             <date>Mardi 22 Mars 2016</date>
+             </evenement> 
+		</organisateur>
+		
+		<organisateur club="Club EMI-Business">
+		<detail>business.xml</detail>
+            <evenement>
+             <icon>images/icon/unicef-enfants_th_128.jpg</icon>
+             <type>Séminaire</type>
+             <titre>Genre et protection sociale</titre>
+             <date>Mardi 8 Mars 2016</date>
+             </evenement> 
+		</organisateur>
+    
+</evenements>

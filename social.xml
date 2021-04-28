@@ -1,0 +1,41 @@
+<?xml version ="1.0" ?>
+<?xml-stylesheet type ="text/xsl" href ="evenements_par_club.xsl" ?>
+
+    <club_organisateur club="Club Social" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_club.xsd">
+        <evenement>
+             <icon>images/icon/unicef-enfants_th_128.jpg</icon>
+             <type>Séminaire</type>
+             <titre>Genre et protection sociale</titre>
+             <date>Mardi 8 Mars 2016</date>
+             <heure>14h à 18h</heure>
+             <lieu>Grand amphi</lieu>
+             <organisateur>Club Social</organisateur>
+             <descriptif>Ce séminaire répond au double objectif d’améliorer notre compréhension des enjeux de genre dans les différents domaines de la protection sociale (santé, emploi ou petite enfance) et d'améliorer ensuite l'intégration de ces enjeux dans les projets portés par l’AFD, en partageant les données et leçons apprises des partenaires impliqués dans le domaine de la protection sociale.</descriptif>
+             <animateurs>
+                 <nom_prenom>Jean-Noël Roulleau</nom_prenom>
+                 <fonction> responsable de la Division Appui Environnemental et Social à l’AFD
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Maya Stern-Plaza</nom_prenom>
+                 <fonction>spécialiste principale protection sociale au BIT
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Jean-Noël Roulleau</nom_prenom>
+                 <fonction> responsable de la Division Appui Environnemental et Social à l’AFD
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Carine Clert</nom_prenom>
+                 <fonction>spécialiste principale protection sociale à la Banque mondiale
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Marie-Pierre Nicollet</nom_prenom>
+                 <fonction>directrice du département Développement humain de l’AFD
+                 </fonction>
+             </animateurs>
+        </evenement>
+        
+    </club_organisateur>

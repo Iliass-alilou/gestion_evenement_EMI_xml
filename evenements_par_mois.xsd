@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="mois_annee">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="evenement"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="attlist.mois_annee"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.mois_annee">
+    <xs:attribute name="mois" use="required"/>
+  </xs:attributeGroup>
+  <xs:element name="evenement">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="icon"/>
+        <xs:element ref="type"/>
+        <xs:element ref="titre"/>
+        <xs:element ref="date"/>
+        <xs:element ref="heure"/>
+        <xs:element ref="lieu"/>
+        <xs:element ref="organisateur"/>
+        <xs:element ref="descriptif"/>
+        <xs:element maxOccurs="unbounded" ref="animateurs"/>
+      </xs:sequence>
+      <xs:attributeGroup ref="attlist.evenement"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:attributeGroup name="attlist.evenement">
+    <xs:attribute name="jour" use="required"/>
+  </xs:attributeGroup>
+  <xs:element name="icon" type="xs:string"/>
+  <xs:element name="type" type="xs:string"/>
+  <xs:element name="titre" type="xs:string"/>
+  <xs:element name="date" type="xs:string"/>
+  <xs:element name="heure" type="xs:string"/>
+  <xs:element name="lieu" type="xs:string"/>
+  <xs:element name="organisateur" type="xs:string"/>
+  <xs:element name="descriptif" type="xs:string"/>
+  <xs:element name="animateurs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nom_prenom"/>
+        <xs:element ref="fonction"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nom_prenom" type="xs:string"/>
+  <xs:element name="fonction" type="xs:string"/>
+</xs:schema>

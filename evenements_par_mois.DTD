@@ -1,0 +1,16 @@
+
+<!ELEMENT mois_annee (evenement+)>
+<!ATTLIST mois_annee mois CDATA #REQUIRED>
+<!ELEMENT evenement (icon,type,titre,date,heure,lieu,organisateur,descriptif,animateurs+)>
+<!ATTLIST evenement jour CDATA #REQUIRED>
+<!ELEMENT icon (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT heure (#PCDATA)>
+<!ELEMENT lieu (#PCDATA)>
+<!ELEMENT organisateur (#PCDATA)>
+<!ELEMENT descriptif (#PCDATA)>
+<!ELEMENT animateurs (nom_prenom,fonction)>
+<!ELEMENT nom_prenom (#PCDATA)>
+<!ELEMENT fonction (#PCDATA)>

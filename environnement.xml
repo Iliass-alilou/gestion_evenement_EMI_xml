@@ -1,0 +1,27 @@
+<?xml version ="1.0" ?>
+<?xml-stylesheet type ="text/xsl" href ="evenements_par_club.xsl" ?>
+
+    <club_organisateur club="Club d'environnement" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_club.xsd">
+        <evenement>
+             <icon>images/icon/Nuage GIRE_15-1_th_128.jpg</icon>
+             <type>Séminaire</type>
+             <titre>Acteurs de l’eau et du climat : concilions nos agendas ! Séminaire 3 – L’influence des concepts et des instruments</titre>
+             <date>Lundi 11 avril 2016</date>
+             <heure>9h30</heure>
+             <lieu>Grand amphi</lieu>
+             <organisateur>Club d'environnement</organisateur>
+             <descriptif>Bassin versant, gestion intégrée des ressources, gouvernance de l’eau… L’ambition de « gérer l’eau douce » a nourri, au fil des précédentes décennies, de nombreux concepts et représentations pour mobiliser la ressource. De nouveaux cadres de pensée et d’action émergent : eau-territoire, eau-environnement, cycle hydro-social de l’eau,  mise en patrimoine de l’environnement, etc.
+             </descriptif>
+             <animateurs>
+                 <nom_prenom>Klervi Fustec</nom_prenom>
+                 <fonction>Géographie, Université de Polynésie Française
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Emeline Hassenforder</nom_prenom>
+                 <fonction>Sciences de l’eau, IRSTEA et Université Nationale d'Australie
+                 </fonction>
+             </animateurs>
+        </evenement>
+        
+    </club_organisateur>

@@ -1,0 +1,9 @@
+
+<!ELEMENT evenements (type+)>
+<!ATTLIST type categorie CDATA #REQUIRED>
+<!ELEMENT type (detail,evenement+)>
+<!ELEMENT detail (#PCDATA)>
+<!ELEMENT evenement (icon,titre,date)>
+<!ELEMENT icon (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT date (#PCDATA)>

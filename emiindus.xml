@@ -1,0 +1,125 @@
+<?xml version ="1.0" ?>
+<?xml-stylesheet type ="text/xsl" href ="evenements_par_club.xsl" ?>
+
+    <club_organisateur club="Club EMI-Indus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_club.xsd">
+        <evenement>
+             <icon>images/icon/petrole_th_128.jpg</icon>
+             <type>Conférence débat</type>
+             <titre>Un pétrole à moins de 30$ le baril : quelles conséquences pour le développement ?</titre>
+             <date>Mardi 12 avril 2016</date>
+             <heure>17h00</heure>
+             <lieu>Salle polyvalente</lieu>
+             <organisateur>EMI-Indus</organisateur>
+             <descriptif>Depuis le milieu de l’année 2014, le panorama énergétique mondial a changé. Le prix du pétrole semble durablement bas, les surcapacités de production s’étendent, et les analystes ne semblent pas encore entrevoir de fléchissement de la tendance. Un cours bas du pétrole a des conséquences dramatiques pour les pays exportateurs les plus fragiles en termes de rentrées fiscales et de risque souverain. Il influe aussi sur les stratégies des pays importateurs, en réorientant potentiellement les stratégies de diversification du mix énergétique et retardant les politiques de réduction des émissions de gaz à effet de serre.
+             </descriptif>
+             <animateurs>
+                 <nom_prenom>Fréderic Baule</nom_prenom>
+                 <fonction>Consultant chez Cédrac Conseil et ENERDATA, professeur associé à IFP Training, ancien Vice President Market Risk Management chez TOTAL Marketing et Services.
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Olivier Rech</nom_prenom>
+                 <fonction>Economiste de l’énergie chez Beyond Ratings, ancien analyste chez Energy Fund Advisors, Carbon4 et au bureau du chef économiste de l’AIE.
+                 </fonction>
+             </animateurs>
+        </evenement>
+		<evenement>
+             <icon>images/icon/conference_debat.jpg</icon>
+             <type>Conférence débat</type>
+             <titre>La RSE, une opportunité pour les entreprises africaines ?</titre>
+             <date>Mardi 9 février 2016</date>
+             <heure>17h30</heure>
+             <lieu>Salle polyvalente</lieu>
+             <organisateur>EMI-Indus</organisateur>
+             <descriptif>Longtemps perçue comme une préocupation de pays riches ou l'apanage des multinationales, la responsabilité sociale et environnementale (RSE) suscite un intérêt croissant sur le continent africain. La RSE représente en effet une opportunité : celle de servir un développement durable et inclusif. Mais aussi, pour les entreprises, un levier de performance.
+             </descriptif>
+             <animateurs>
+                 <nom_prenom>Alexandre Wong</nom_prenom>
+                 <fonction>chercheur associé au CNRS  
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Pierre Jacquemot</nom_prenom>
+                 <fonction>Président du GRET
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Pierre Delcroix</nom_prenom>
+                 <fonction>Directeur Ecologie Industrielle pour la région Afrique Moyen-Orient, Lafarge Holcim
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Jean-Baptiste Satchivi</nom_prenom>
+                 <fonction> PDG du groupe CDPA-AGRISATCH-SBB
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Larissa Luy</nom_prenom>
+                 <fonction>Experte Senior de l'IFC
+                 </fonction>
+             </animateurs>
+        </evenement>
+		<evenement>
+             <icon>images/icon/Renfcap.jpg</icon>
+             <type>Conférence – débat</type>
+             <titre>Comment renforcer les acteurs porteurs de changement ?</titre>
+             <date>Jeudi 4 février 2016</date>
+             <heure>17h30</heure>
+             <lieu>Salle polyvalente</lieu>
+             <organisateur>EMI-Indus</organisateur>
+             <descriptif>La période actuelle voit une prise de conscience de la nécessité de faire évoluer la manière de « penser » le renforcement des capacités. L’objectif est de renforcer la capacité d’une société à gérer ses propres affaires.
+             </descriptif>
+             <animateurs>
+                 <nom_prenom>Benoit-Xavier Loridon</nom_prenom>
+                 <fonction>directeur d’Initiative Développement, membre du F3E et du PRISME
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Marie Hélène Nedelec</nom_prenom>
+                 <fonction>vice-présidente de Nantes Métropole
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Daniel Neu</nom_prenom>
+                 <fonction>chargé de programme « Département Politiques sociales et citoyenneté » au GRET
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Jean-Marc Pradelle</nom_prenom>
+                 <fonction>chargé de mission à la Division « Appui au Renforcement des Capacités » à l’AFD
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Amadou Saley Oumarou</nom_prenom>
+                 <fonction> haut-commissaire à la Modernisation de l’Etat du Niger
+                 </fonction>
+             </animateurs>
+        </evenement>
+		<evenement>
+             <icon>images/icon/3e49d570.jpg</icon>
+             <type>Rapport</type>
+             <titre>le développement dans le monde 2016 : les dividendes du numérique </titre>
+             <date>Mardi 2 février 2016</date>
+             <heure>16h30</heure>
+             <lieu>Salle polyvalente</lieu>
+             <organisateur>EMI-Indus</organisateur>
+             <descriptif>Les technologies numériques connaissent une expansion rapide presque partout, mais leurs dividendes — les avantages plus larges que procurent ces technologies  au plan du développement — tardent à se concrétiser. Souvent, elles dopent la croissance, élargissent les possibilités et améliorent la prestation des services. Pourtant, leur effet global n’a pas répondu aux attentes et est inégalement réparti. 
+			 </descriptif>
+             <animateurs>
+                 <nom_prenom>Gaël Giraud</nom_prenom>
+                 <fonction>AFD, chef économiste, directeur exécutif Etudes Recherches et Savoirs
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Deepak Mishra</nom_prenom>
+                 <fonction>Banque mondiale, Co-directeur du Rapport sur le développement dans le monde 2016
+                 </fonction>
+             </animateurs>
+			 <animateurs>
+                 <nom_prenom>Uwe Deichmann</nom_prenom>
+                 <fonction>Banque mondiale, Co-directeur du Rapport sur le développement dans le monde 2016
+                 </fonction>
+             </animateurs>
+        </evenement>
+        
+    </club_organisateur>

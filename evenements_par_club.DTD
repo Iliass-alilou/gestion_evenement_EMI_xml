@@ -1,0 +1,15 @@
+
+<!ELEMENT club_organisateur (evenement+)>
+<!ATTLIST club_organisateur club CDATA #REQUIRED>
+<!ELEMENT evenement (icon,type,titre,date,heure,lieu,organisateur,descriptif,animateurs+)>
+<!ELEMENT icon (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT heure (#PCDATA)>
+<!ELEMENT lieu (#PCDATA)>
+<!ELEMENT organisateur (#PCDATA)>
+<!ELEMENT descriptif (#PCDATA)>
+<!ELEMENT animateurs (nom_prenom,fonction)>
+<!ELEMENT nom_prenom (#PCDATA)>
+<!ELEMENT fonction (#PCDATA)>
