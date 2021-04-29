@@ -46,23 +46,29 @@
           </evenement>		  
 		</organisateur>
 		
-		<organisateur club="Club EMI Art">
+		<organisateur club="Club EMI KHAYR">
 		<detail>emiArt.xml</detail>
             <evenement>
-             <icon>images/icon/SOCIAL-BUSINESS-2-670x474.jpg</icon>
-             <type>Conférence débat</type>
-             <titre>Social business : comment changer d’échelle ?</titre>
-             <date>Mardi 22 Mars 2021</date>
-             </evenement> 
+             <icon>images/icon/emikhayr.png</icon>
+             <type>Conference</type>
+             <titre>sensibilisation de l’importance de la donation au faveur des habitants des villages</titre>
+             <date>lundi 22 Avril 2021</date>
+             </evenement>
+			<evenement>
+				<icon>images/icon/donsang.png</icon>
+				<type>Rencontre</type>
+				<titre>les dons du sang au faveur des hôpitaux</titre>
+				<date>Mardi 22 Mars 2021</date>
+			</evenement>
 		</organisateur>
 		
-		<organisateur club="Club EMI-Entreprise">
+		<organisateur club="Club Forum-EMI-Entreprise">
 		<detail>entreprise.xml</detail>
             <evenement>
-             <icon>images/icon/unicef-enfants_th_128.jpg</icon>
+             <icon>images/icon/forum.png</icon>
              <type>Séminaire</type>
-             <titre>Genre et protection sociale</titre>
-             <date>Mardi 8 Mars 2021</date>
+             <titre>Forum entreprises, élevés ingénieurs</titre>
+             <date>26,27 et 28 Mai 2021 </date>
              </evenement> 
 		</organisateur>
     

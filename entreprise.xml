@@ -1,31 +1,28 @@
 <?xml version ="1.0" ?>
 <?xml-stylesheet type ="text/xsl" href ="evenements_par_club.xsl" ?>
 
-    <club_organisateur club="Club EMI-Entreprise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_club.xsd">
+    <club_organisateur club="Club Forum-EMI-Entreprise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_club.xsd">
         <evenement>
-             <icon>images/icon/SOCIAL-BUSINESS-2-670x474.jpg</icon>
-             <type>Conférence débat</type>
-             <titre>Social business : comment changer d’échelle ?</titre>
-             <date>Mardi 22 Mars 2021</date>
+             <icon>images/icon/forum.png</icon>
+             <type>Conférence</type>
+             <titre>Forum entreprises, élevés ingénieurs.</titre>
+             <date>26,27 et 28 Mai 2021 </date>
              <heure>17h00 à 19h30</heure>
              <lieu>Salle polyvalente</lieu>
-             <organisateur>EMI-Entreprise</organisateur>
-             <descriptif>Lutter contre la malnutrition infantile chronique à Madagascar, promouvoir l’accès de tous à une énergie propre et économique au Cambodge, concilier économie circulaire et traitement des déchets en Argentine… tout en étant rentable : tels sont les paris des social business. Ces initiatives se multiplient et suscitent l’intérêt d’un nombre croissant d’acteurs, dans la sphère politique comme dans celle des bailleurs. Pourquoi ? Car ces initiatives convainquent par leur capacité à répondre à des problématiques sociétales (sociales et environnementales) et ouvrent la voie à une économie réellement inclusive.</descriptif>
+             <organisateur>Forum-EMI-Entreprise</organisateur>
+             <descriptif>
+				 Le Forum EMI-Entreprises approche à grand pas !
+
+				 Il ne reste qu’un mois pour l’ouverture de la 27 ème édition du Forum EMI-Entreprises, une édition 100% en ligne.
+
+				 Nous vous donnons donc rendez-vous le 26,27 et 28 Mai 2021 pour encore plus d’opportunités à distance
+			 </descriptif>
              <animateurs>
                  <nom_prenom>David AUERBACH</nom_prenom>
                  <fonction>co-fondateur de Sanergy
                  </fonction>
              </animateurs>
-             <animateurs>
-                 <nom_prenom>Emmanuel BEAU</nom_prenom>
-                 <fonction>directeur d’investissement pour le fonds Energy Access Ventures (EAV)
-                 </fonction>
-             </animateurs>
-			 <animateurs>
-                 <nom_prenom>Jean Gabriel DAYRE</nom_prenom>
-                 <fonction>chargé d’affaires senior à Proparco
-                 </fonction>
-             </animateurs>
+          
         </evenement>
         
     </club_organisateur>

@@ -22,6 +22,40 @@
                  </fonction>
              </animateurs>
         </evenement>
+		<evenement>
+			<icon>images/icon/donsang.png</icon>
+			<type>Séminaire</type>
+			<titre>les dons du sang au faveur des hôpitaux</titre>
+			<date>Mardi 8 Mai 2021</date>
+			<heure>14h à 18h</heure>
+			<lieu>Grand amphi</lieu>
+			<organisateur>Club EMI Khayr</organisateur>
+			<descriptif>
+				Le don de sang est un noble acte humanitaire, sauvant des milliers de vies chaque année.
+				A cet égard, le Club Amy Khair a réussi à fournir une une une00 sachets de sang dans le cadre de la campagne de don de sang organisée dimanche 11 avril sous la supervision de l’Association marocaine des hippies du sang, une branche de la province de Madiona, et avec l’aide du Centre régional d’injection de sang de Casablanca-Satat.
+				Amy Khair est très reconnaissante envers tous ceux qui ont contribué de près ou de loin au succès de ce travail humanitaire.
+				En vous donnant votre désir de sauver de nombreuses vies en participant à la monnaie la plus précieuse que vous avez, qui est le sang.
+			</descriptif>
+
+			<animateurs>
+				<nom_prenom>Jean-Noël Roulleau</nom_prenom>
+				<fonction>
+					responsable de la Division Appui Environnemental et Social à l’AFD
+				</fonction>
+			</animateurs>
+			<animateurs>
+				<nom_prenom>Carine Clert</nom_prenom>
+				<fonction>
+					spécialiste principale protection sociale à la Banque mondiale
+				</fonction>
+			</animateurs>
+			<animateurs>
+				<nom_prenom>Marie-Pierre Nicollet</nom_prenom>
+				<fonction>
+					directrice du département Développement humain de l’AFD
+				</fonction>
+			</animateurs>
+		</evenement>
         <evenement>
              <icon>images/icon/unicef-enfants_th_128.jpg</icon>
              <titre>Genre et protection sociale</titre>

@@ -1,16 +1,19 @@
 <?xml version ="1.0" ?>
 <?xml-stylesheet type ="text/xsl" href ="evenements_par_club.xsl" ?>
 
-    <club_organisateur club="Club EMI Art" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_club.xsd">
+    <club_organisateur club="Club EMI Khayr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_club.xsd">
         <evenement>
-             <icon>images/icon/unicef-enfants_th_128.jpg</icon>
+             <icon>images/icon/emikhayr.png</icon>
              <type>Séminaire</type>
-             <titre>Genre et protection sociale</titre>
+             <titre>sensibilisation de l’importance de la donation au faveur des habitants des villages.</titre>
              <date>Mardi 8 Mars 2021</date>
              <heure>14h à 18h</heure>
              <lieu>Grand amphi</lieu>
-             <organisateur>Club EMI Art</organisateur>
-             <descriptif>Ce séminaire répond au double objectif d’améliorer notre compréhension des enjeux de genre dans les différents domaines de la protection sociale (santé, emploi ou petite enfance) et d'améliorer ensuite l'intégration de ces enjeux dans les projets portés par l’AFD, en partageant les données et leçons apprises des partenaires impliqués dans le domaine de la protection sociale.</descriptif>
+             <organisateur>Club EMI Khayr</organisateur>
+             <descriptif>mesure d’exprimer, et si vous essayez d’exprimer la beauté du sentiment ou de mourir de son droit, étape par étape, notre convoi humain s’approche de l’empreinte de la bonté pour atteindre son objectif d’aider l’habitant du rond-point de Tidmamin. Il n’y a rien de plus élevé que d’atteindre la destination de vos dons en ce mois sacré. Grâce à Dieu et à votre aide, nous avons pu distribuer des cages du Ramadan aux habitants d’al-Dwar et toute notre activité avec des campagnes de sensibilisation et de sensibilisation s’est portée volontaire pour être présentée par un groupe de médecins attachés à leurs remerciements, de sorte que les yeux étaient remplis de larmes de joie et de joie accompagnées d’invitations et de gratitude sincère. Ce n’est que la première étape pour atteindre notre objectif et atteindre tout ce que notre convoi aspire à offrir aux habitants du rond-point de Tidmamin.
+
+Un grand merci à tous ceux qui ont contribué à dessiner un sourire sur la vie de cet habitant vertueux
+</descriptif>
              <animateurs>
                  <nom_prenom>Jean-Noël Roulleau</nom_prenom>
                  <fonction> responsable de la Division Appui Environnemental et Social à l’AFD
@@ -21,6 +24,27 @@
                  <fonction>spécialiste principale protection sociale au BIT
                  </fonction>
              </animateurs>
+			 <animateurs>
+                 <nom_prenom>Jean-Noël Roulleau</nom_prenom>
+                 <fonction> responsable de la Division Appui Environnemental et Social à l’AFD
+                 </fonction>
+             </animateurs>
+             
+        </evenement>
+          <evenement>
+             <icon>images/icon/donsang.png</icon>
+             <type>Séminaire</type>
+             <titre>les dons du sang au faveur des hôpitaux</titre>
+             <date>Mardi 8 Mai 2021</date>
+             <heure>14h à 18h</heure>
+             <lieu>Grand amphi</lieu>
+             <organisateur>Club EMI Khayr</organisateur>
+             <descriptif>Le don de sang est un noble acte humanitaire, sauvant des milliers de vies chaque année. 
+A cet égard, le Club Amy Khair a réussi à fournir une une une00 sachets de sang dans le cadre de la campagne de don de sang organisée dimanche 11 avril sous la supervision de l’Association marocaine des hippies du sang, une branche de la province de Madiona, et avec l’aide du Centre régional d’injection de sang de Casablanca-Satat.
+Amy Khair est très reconnaissante envers tous ceux qui ont contribué de près ou de loin au succès de ce travail humanitaire. 
+En vous donnant votre désir de sauver de nombreuses vies en participant à la monnaie la plus précieuse que vous avez, qui est le sang.
+</descriptif>
+         
 			 <animateurs>
                  <nom_prenom>Jean-Noël Roulleau</nom_prenom>
                  <fonction> responsable de la Division Appui Environnemental et Social à l’AFD
@@ -37,5 +61,4 @@
                  </fonction>
              </animateurs>
         </evenement>
-        
     </club_organisateur>

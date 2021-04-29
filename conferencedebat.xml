@@ -52,6 +52,38 @@
              </animateurs>
         </evenement>
 		<evenement>
+			<icon>images/icon/emikhayr.png</icon>
+			<titre>sensibilisation de l’importance de la donation au faveur des habitants des villages.</titre>
+			<date>Mardi 8 Mars 2021</date>
+			<heure>14h à 18h</heure>
+			<lieu>Grand amphi</lieu>
+			<organisateur>Club EMI Khayr</organisateur>
+			<descriptif>
+				mesure d’exprimer, et si vous essayez d’exprimer la beauté du sentiment ou de mourir de son droit, étape par étape, notre convoi humain s’approche de l’empreinte de la bonté pour atteindre son objectif d’aider l’habitant du rond-point de Tidmamin. Il n’y a rien de plus élevé que d’atteindre la destination de vos dons en ce mois sacré. Grâce à Dieu et à votre aide, nous avons pu distribuer des cages du Ramadan aux habitants d’al-Dwar et toute notre activité avec des campagnes de sensibilisation et de sensibilisation s’est portée volontaire pour être présentée par un groupe de médecins attachés à leurs remerciements, de sorte que les yeux étaient remplis de larmes de joie et de joie accompagnées d’invitations et de gratitude sincère. Ce n’est que la première étape pour atteindre notre objectif et atteindre tout ce que notre convoi aspire à offrir aux habitants du rond-point de Tidmamin.
+
+				Un grand merci à tous ceux qui ont contribué à dessiner un sourire sur la vie de cet habitant vertueux
+			</descriptif>
+			<animateurs>
+				<nom_prenom>Jean-Noël Roulleau</nom_prenom>
+				<fonction>
+					responsable de la Division Appui Environnemental et Social à l’AFD
+				</fonction>
+			</animateurs>
+			<animateurs>
+				<nom_prenom>Maya Stern-Plaza</nom_prenom>
+				<fonction>
+					spécialiste principale protection sociale au BIT
+				</fonction>
+			</animateurs>
+			<animateurs>
+				<nom_prenom>Jean-Noël Roulleau</nom_prenom>
+				<fonction>
+					responsable de la Division Appui Environnemental et Social à l’AFD
+				</fonction>
+			</animateurs>
+
+		</evenement>
+		<evenement>
 		
              <icon>images/icon/conference_debat.jpg</icon>
              <type>Conférence débat</type>
@@ -78,7 +110,28 @@
              </animateurs>
 			 
         </evenement>
-		
+		<evenement>
+			<icon>images/icon/forum.png</icon>
+			<titre>Forum entreprises, élevés ingénieurs.</titre>
+			<date>26,27 et 28 Mai 2021 </date>
+			<heure>17h00 à 19h30</heure>
+			<lieu>Salle polyvalente</lieu>
+			<organisateur>Forum-EMI-Entreprise</organisateur>
+			<descriptif>
+				Le Forum EMI-Entreprises approche à grand pas !
+
+				Il ne reste qu’un mois pour l’ouverture de la 27 ème édition du Forum EMI-Entreprises, une édition 100% en ligne.
+
+				Nous vous donnons donc rendez-vous le 26,27 et 28 Mai 2021 pour encore plus d’opportunités à distance
+			</descriptif>
+			<animateurs>
+				<nom_prenom>David AUERBACH</nom_prenom>
+				<fonction>
+					co-fondateur de Sanergy
+				</fonction>
+			</animateurs>
+
+		</evenement>
 		<evenement>
               <icon>images/icon/Renfcap.jpg</icon>
              <type>Conférence débat</type>

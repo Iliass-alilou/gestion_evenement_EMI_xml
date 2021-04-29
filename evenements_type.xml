@@ -11,10 +11,10 @@
              <date>Samedi 14 Avril 2021</date>
         </evenement>
 		<evenement>
-             <icon>images/icon/SOCIAL-BUSINESS-2-670x474.jpg</icon>
-             <titre>Social business : comment changer d’échelle ?</titre>
-             <date>Mardi 22 Mars 2021</date>
-        </evenement>
+			<icon>images/icon/forum.png</icon>
+			<titre>Forum entreprises, élevés ingénieurs</titre>
+			<date>26,27 et 28 Mai 2021 </date>
+		</evenement>
 		<evenement>
               <icon>images/icon/conference_debat.jpg</icon>
              <titre>La RSE, une opportunité pour les entreprises africaines ?</titre>
@@ -24,7 +24,12 @@
              <icon>images/icon/Renfcap.jpg</icon>
              <titre>Comment renforcer les acteurs porteurs de changement ?</titre>
              <date>Jeudi 4 février 2021</date>
-        </evenement>		 		
+        </evenement>
+		<evenement>
+			<icon>images/icon/emikhayr.png</icon>
+			<titre>sensibilisation de l’importance de la donation au faveur des habitants des villages</titre>
+			<date>lundi 22 Mai 2021</date>
+		</evenement>
     </type>
 		
 		<type categorie="Séminaire">
@@ -39,6 +44,12 @@
              <titre>Genre et protection sociale</titre>
              <date>Mardi 8 Mars 2021</date>
              </evenement>
+			<evenement>
+				<icon>images/icon/donsang.png</icon>
+				<type>Rencontre</type>
+				<titre>les dons du sang au faveur des hôpitaux</titre>
+				<date>Mardi 22 Mars 2021</date>
+			</evenement>
 		</type>
 		
 		<type categorie="Rapport">
@@ -49,5 +60,6 @@
              <date>Mardi 2 février 2021</date>
             </evenement>
 		</type>
+	
     
 </evenements>
