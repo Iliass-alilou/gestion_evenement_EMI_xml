@@ -78,7 +78,7 @@ $(window).load(function() {
 	</div>
         
     <div id="tooplate_main">
-	<h1>La liste des événements de l'année 2016 par mois</h1><br/>
+	<h1>La liste des événements de l'année 2021 par mois</h1><br/>
     	<xsl:for-each select="evenements/mois_annee">
         <div class="col_w960">
         	
@@ -119,18 +119,17 @@ $(window).load(function() {
 </div> <!-- end of wrapper -->
 
 <div id="tooplate_cr_wrapper">
-<p style="padding-left: 15px; padding-top: 15px">Réalisé par :</p>
-		<ul>
-		<li>ATMANI Ayoub <a href="mailto:ayoub.atmani@gmail.com">ayoub.atmani@gmail.com</a></li>
-		<li>CHARFI Charifa <a href="mailto:charfi.charifa@gmail.com">charfi.charifa@gmail.com</a></li>
-		<li>EL KADIM Chaimae <a href="mailto:midlight@hotmail.fr">midlight@hotmail.fr</a></li>
-		<li>HATIMI Imad <a href="mailto:hatimi26.ih@gmail.com">hatimi26.ih@gmail.com</a></li>
-		</ul>
-	<div id="tooplate_cr">
-    	
-        Copyright © 2016 <a href="#">Ecole Mohammadia d'Ingénieurs</a> 
-        
-    </div> <!-- end of footer wrapper -->
+            <div id="tooplate_cr">
+				
+					<ul>Adresse : Avenue Ibn Sina B.P 765, Agdal Rabat 10090 Maroc</ul>
+					<ul>Téléphone : (+212) 537 68 71 50</ul>
+					<ul>Fax : (+212) 537 77 88 53</ul>
+					<ul>Email : <a href="#">contact@emi.ac.ma</a></ul>
+					<ul>Site web : <a href="emi.ac.ma">www.emi.ac.ma</a></ul>
+
+				Copyright © 2021 <a href="#">Ecole Mohammadia d'Ingénieurs</a> Tout les droits réservés 
+
+			</div> <!-- end of footer wrapper -->
 </div> <!-- end of footer -->
 
 </body>

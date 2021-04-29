@@ -1,10 +1,10 @@
 <?xml version ="1.0" ?>
-<?xml-stylesheet type ="text/xsl" href ="evenements_par_type.xsl" ?>
+<?xml-stylesheet type ="text/xsl" href ="evenements_par_club.xsl" ?>
 
-    <type categorie="Conférence-Débat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_type.xsd">
+    <club_organisateur club="IEEE EMI Student Branch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_club.xsd">
         <evenement>
 		
-              <icon>images/icon/petrole_th_128.jpg</icon>
+             <icon>images/icon/petrole_th_128.jpg</icon>
              <type>Conférence débat</type>
              <titre>: La relance de l’économie Marocaine Poste Covide-19 ?</titre>
              <date>Samedi 14 Avril 2021</date>
@@ -27,30 +27,7 @@
              </animateurs>
 			 
         </evenement>
-		<evenement>
-             <icon>images/icon/SOCIAL-BUSINESS-2-670x474.jpg</icon>
-             <titre>Social business : comment changer d’échelle ?</titre>
-             <date>Mardi 22 Mars 2021</date>
-             <heure>17h00 à 19h30</heure>
-             <lieu>Salle polyvalente</lieu>
-             <organisateur>EMI-Entreprise</organisateur>
-             <descriptif>Lutter contre la malnutrition infantile chronique à Madagascar, promouvoir l’accès de tous à une énergie propre et économique au Cambodge, concilier économie circulaire et traitement des déchets en Argentine… tout en étant rentable : tels sont les paris des social business. Ces initiatives se multiplient et suscitent l’intérêt d’un nombre croissant d’acteurs, dans la sphère politique comme dans celle des bailleurs. Pourquoi ? Car ces initiatives convainquent par leur capacité à répondre à des problématiques sociétales (sociales et environnementales) et ouvrent la voie à une économie réellement inclusive.</descriptif>
-             <animateurs>
-                 <nom_prenom>David AUERBACH</nom_prenom>
-                 <fonction>co-fondateur de Sanergy
-                 </fonction>
-             </animateurs>
-             <animateurs>
-                 <nom_prenom>Emmanuel BEAU</nom_prenom>
-                 <fonction>directeur d’investissement pour le fonds Energy Access Ventures (EAV)
-                 </fonction>
-             </animateurs>
-			 <animateurs>
-                 <nom_prenom>Jean Gabriel DAYRE</nom_prenom>
-                 <fonction>chargé d’affaires senior à Proparco
-                 </fonction>
-             </animateurs>
-        </evenement>
+		
 		<evenement>
 		
              <icon>images/icon/conference_debat.jpg</icon>
@@ -80,7 +57,8 @@
         </evenement>
 		
 		<evenement>
-              <icon>images/icon/Renfcap.jpg</icon>
+		
+             <icon>images/icon/Renfcap.jpg</icon>
              <type>Conférence débat</type>
              <titre>: la course pour améliorer la recharge des véhicules électriques ?</titre>
              <date>11 Avril 2021 </date>
@@ -96,6 +74,28 @@
                  <fonction>C'est un physicien et électrochimiste marocain travaillant principalement dans le domaine des batteries au lithium et au fluor
                  </fonction>
              </animateurs>
+			 
+             
+        </evenement>
+		
+		<evenement>
+             <icon>images/icon/AAAAs.jpg</icon>
+             <type>onférence débat</type>
+             <titre>Le dynamisme entrepreneurial : Une exigence fondamentale pour le modèle de développement économique </titre>
+             <date>Jeudi 2 avril 2021</date>
+             <heure>16h30</heure>
+             <lieu>Salle polyvalente</lieu>
+             <organisateur>IEEE EMI Student Branch</organisateur>
+			 <descriptif>Sous le Haut Patronage de Sa Majesté Le Roi Mohamed VI, l’Ecole Mohammadia d’Ingénieurs organise les 01 et 02 Avril 2020, la 26ème édition du Forum EMI-Entreprises sous le thème : « Le dynamisme entrepreneurial: Une exigence fondamentale pour le modèle de développement économique ».
+				Le Forum EMI-Entreprises revient donc encore une fois avec une nouvelle édition aussi prometteuse que ses précédentes. Alliant excellence et expertise, cet événement annuel est le rendez-vous incontournable de la scène estudiantine marocaine.
+				Accueillant chaque année les plus grandes entreprises nationales et multinationales, tous secteurs confondus, les grandes écoles et universités étrangères, et également les meilleurs cabinets de recrutements, le Forum EMI-Entreprises vous offre de nombreuses opportunités pour mettre toutes les chances de votre côté et donner un nouvel élan à votre carrière professionnelle.
+			 </descriptif>
+             <animateurs>
+                 <nom_prenom>Gaël Giraud</nom_prenom>
+                 <fonction>AFD, chef économiste, directeur exécutif Etudes Recherches et Savoirs
+                 </fonction>
+             </animateurs>
+            
         </evenement>
         
-    </type>
+    </club_organisateur>

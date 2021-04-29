@@ -1,0 +1,70 @@
+<?xml version ="1.0" ?>
+<?xml-stylesheet type ="text/xsl" href ="evenements_par_mois.xsl" ?>
+
+    <mois_annee mois="Février 2021" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_mois.xsd">
+        <evenement jour="9">
+		
+             <icon>images/icon/conference_debat.jpg</icon>
+             <type>Conférence débat</type>
+             <titre>Retour sur une Assemblée Générale dynamique et positive  ?</titre>
+             <date>17 Avril 2021</date>
+             <heure>19h:00</heure>
+             <lieu>visioconférence</lieu>
+             <organisateur>IEEE EMI Student Branch</organisateur>
+			<descriptif>Notre assemblée générale s’est tenue en visioconférence et fût un véritable succès.
+				Ce moment ordinaire et surtout très important pour l'équipe, permet de statuer sur le rapport d’activité des mois écoulés et permet aux membres de discuter, puis présenter et partager les orientations et perspectives envisagées pour les jours à venir.
+				À l'issue de cette assemblée, nous étions très heureux d’avoir partagé un beau moment de convivialité, malgré la distance et les écrans.
+				Un grand merci à l'ensemble de nos membres pour leur présence et leur implication ! 
+				... et que l'aventure continue!
+             </descriptif>
+             <animateurs>
+                 <nom_prenom>Mohamed Talal </nom_prenom>
+                 <fonction>presedent de clube EMI Industriel 
+                 </fonction>
+             </animateurs>
+             <animateurs>
+                 <nom_prenom>Karim Tahi </nom_prenom>
+                 <fonction>vice presedent du Club EMI Industriel
+                 </fonction>
+			 
+        </evenement>
+		<evenement jour="4">
+		
+            <icon>images/icon/Renfcap.jpg</icon>
+             <type>Conférence débat</type>
+             <titre>: la course pour améliorer la recharge des véhicules électriques ?</titre>
+             <date>11 Avril 2021 </date>
+             <heure>09:00h</heure>
+             <lieu>visioconférence</lieu>
+             <organisateur>IEEE EMI Student Branch</organisateur>
+			 <descriptif>Alors que le monde évolue de manière proactive vers l'utilisation d'énergie propre, de plus en plus de gens choisissent les véhicules électriques plutôt que d'autres moyens de transport conventionnels. Cependant, il n'y a pas autant de bornes de recharge pour véhicules électriques que de stations-service, ce qui rend l'amélioration de la recharge des véhicules électriques indispensable. Des entreprises du monde entier se font concurrence pour voir qui peut proposer une invention révolutionnaire dans ce domaine afin d'encourager les gens à être plus respectueux de l'environnement en optant pour les véhicules électriques.
+					Pour discuter de cette course à l'amélioration de la recharge des véhicules électriques, 𝐈𝐄𝐄𝐄 𝐄𝐌𝐈 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐁𝐫𝐚𝐧𝐜𝐡 organisera un webinaire avec l'ingénieur et inventeur marocain de renommée mondiale Rachid Yazami. Rejoignez-nous dans ce voyage pour mieux comprendre ce que l'avenir réserve aux véhicules électriques.
+					Ne manquez pas cette occasion en or d’apprendre de l’expertise de nos clients et de participer à cette conversation fructueuse.
+             </descriptif>
+             <animateurs>
+                 <nom_prenom>Yazami Rachid </nom_prenom>
+                 <fonction>C'est un physicien et électrochimiste marocain travaillant principalement dans le domaine des batteries au lithium et au fluor
+                 </fonction>
+             </animateurs>
+			 
+        </evenement>
+		<evenement jour="2">
+             <icon>images/icon/AAAAs.jpg</icon>
+             <type>onférence débat</type>
+             <titre>Le dynamisme entrepreneurial : Une exigence fondamentale pour le modèle de développement économique </titre>
+             <date>Jeudi 2 avril 2021</date>
+             <heure>16h30</heure>
+             <lieu>Salle polyvalente</lieu>
+             <organisateur>IEEE EMI Student Branch</organisateur>
+			 <descriptif>Sous le Haut Patronage de Sa Majesté Le Roi Mohamed VI, l’Ecole Mohammadia d’Ingénieurs organise les 01 et 02 Avril 2020, la 26ème édition du Forum EMI-Entreprises sous le thème : « Le dynamisme entrepreneurial: Une exigence fondamentale pour le modèle de développement économique ».
+				Le Forum EMI-Entreprises revient donc encore une fois avec une nouvelle édition aussi prometteuse que ses précédentes. Alliant excellence et expertise, cet événement annuel est le rendez-vous incontournable de la scène estudiantine marocaine.
+				Accueillant chaque année les plus grandes entreprises nationales et multinationales, tous secteurs confondus, les grandes écoles et universités étrangères, et également les meilleurs cabinets de recrutements, le Forum EMI-Entreprises vous offre de nombreuses opportunités pour mettre toutes les chances de votre côté et donner un nouvel élan à votre carrière professionnelle.
+			 </descriptif>
+             <animateurs>
+                 <nom_prenom>Gaël Giraud</nom_prenom>
+                 <fonction>AFD, chef économiste, directeur exécutif Etudes Recherches et Savoirs
+                 </fonction>
+             </animateurs>
+        </evenement>
+
+    </mois_annee>

@@ -4,8 +4,8 @@
     <type categorie="Rapport" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="evenements_par_type.xsd">
       <evenement>
              <icon>images/icon/3e49d570.jpg</icon>
-             <titre>le développement dans le monde 2016 : les dividendes du numérique </titre>
-             <date>Mardi 2 février 2016</date>
+             <titre>le développement dans le monde 2021 : les dividendes du numérique </titre>
+             <date>Mardi 2 février 2021</date>
              <heure>16h30</heure>
              <lieu>Salle polyvalente</lieu>
              <organisateur>EMI-Indus</organisateur>
@@ -18,12 +18,12 @@
              </animateurs>
              <animateurs>
                  <nom_prenom>Deepak Mishra</nom_prenom>
-                 <fonction>Banque mondiale, Co-directeur du Rapport sur le développement dans le monde 2016
+                 <fonction>Banque mondiale, Co-directeur du Rapport sur le développement dans le monde 2021
                  </fonction>
              </animateurs>
 			 <animateurs>
                  <nom_prenom>Uwe Deichmann</nom_prenom>
-                 <fonction>Banque mondiale, Co-directeur du Rapport sur le développement dans le monde 2016
+                 <fonction>Banque mondiale, Co-directeur du Rapport sur le développement dans le monde 2021
                  </fonction>
              </animateurs>
         </evenement>
