@@ -72,13 +72,14 @@ $(window).load(function() {
     <div id="tooplate_middle">
     
         <div id="tooplate_middle_subpage">
-        <h2>Une panoplie d'évènements qui illuminent notre école </h2>
-       
+        <h2>Le prestigieux flambeau que portent les ingénieurs de demain!</h2>
+		        <br/>
+       	<h2>La liste des événements de l'année 2021 par club</h2><br/>
+
 		</div>
 	</div>
         
     <div id="tooplate_main">
-	<h1>La liste des événements de l'année 2021 par club</h1><br/>
     	<xsl:for-each select="evenements/organisateur">
         <div class="col_w960">
         	

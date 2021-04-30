@@ -43,8 +43,9 @@ function clearText(field)
     </div> <!-- end of tooplate_menu -->
 
     <div id="tooplate_middle_subpage">
-        <h2>Nouveautés</h2>
-        <p>Venez explorer nos événements passionants et fabuleux du mois ...</p>
+        <h2>Passioné par un club? </h2>
+		<br/>
+		<h2>En voici les clubs de l'EMI!</h2>
     </div>
         
     <div id="tooplate_main">
